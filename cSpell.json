@@ -1,0 +1,5 @@
+{
+    "ignorePaths": [],
+    "ignoreWords": ["frontmatter","silkmoon","fortawesome"],
+    "useGitignore": true
+}

@@ -1,3 +1,13 @@
+
+
+
+# infos
+**/00.infos
+**/old
+**/test
+**/old*
+.env
+
 # Logs
 logs
 *.log
